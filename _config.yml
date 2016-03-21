@@ -1,0 +1,28 @@
+name: devotion
+favicon: null
+layout_spectrum: 0.19621009076945484
+typography_spectrum: 0.5415562542621046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.19475172320380807
+  lightness: 0.4540711333975196
+  saturation: 0.9545211677905172
+  rhythmicContrast: 0.0042245828080922365
+purpose: []
